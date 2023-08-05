@@ -22,7 +22,7 @@ This is a Python script to demonstrate disk formatting commands using the os.sys
 4. Run the script:
 
    ```bash
-   python delete_windows.py
+   python Windowsdelete.py
 
 The script will prompt you for administrative credentials if elevated privileges are required.
 
